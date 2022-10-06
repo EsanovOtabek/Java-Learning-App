@@ -1,4 +1,4 @@
-package aj.java.lenovo.javalearning;
+package aj.java.lenovo.javalearnin;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
